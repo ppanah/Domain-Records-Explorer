@@ -221,7 +221,6 @@ If this were a production tool, possible improvements include:
 * server-side pagination
 * domain sorting
 * keyboard navigation
-* unit tests
 * accessibility improvements
 * caching API responses
 
